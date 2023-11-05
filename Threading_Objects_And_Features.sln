@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_The managed thread pool", "1_The managed thread pool", "{9B78A3E8-5B33-4CD5-BB78-6231E20DEF0B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2_Timers", "2_Timers", "{B720BEF4-74DA-4293-BE4F-A318C14AE37E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3_EventWaitHandle", "3_EventWaitHandle", "{256BBFA3-7577-4DD1-99DC-71CFFB618F79}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4_CountdownEvent", "4_CountdownEvent", "{BA0B8D89-1432-4394-A6D2-3A40F9F9F7B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5_Mutexes", "5_Mutexes", "{C74901E5-4999-456C-BCF6-A8DEF33F1AE1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6_Semaphore and SemaphoreSlim", "6_Semaphore and SemaphoreSlim", "{DB32732E-08DC-42D4-B2D1-D44D531E5F0D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7_Barrier", "7_Barrier", "{DD4C2EB2-7857-4E48-B878-0A705DEAF23A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8_SpinLock", "8_SpinLock", "{AC1A7470-0242-4A24-B1D9-B5D880FFF41E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9_SpinWait", "9_SpinWait", "{131AA62C-8B9A-40E2-AD58-BBCFBEA62D0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_ThreadPool_GetAvailableThreads", "1_ThreadPool_GetAvailableThreads\1_ThreadPool_GetAvailableThreads.csproj", "{B40559A3-56C9-4AC9-8615-727029D55CC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_ThreadPool_QueueUserWorkItem", "2_ThreadPool_QueueUserWorkItem\2_ThreadPool_QueueUserWorkItem.csproj", "{5BE5ACBC-590C-4560-AFE4-D5994EDBD343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B40559A3-56C9-4AC9-8615-727029D55CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40559A3-56C9-4AC9-8615-727029D55CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40559A3-56C9-4AC9-8615-727029D55CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40559A3-56C9-4AC9-8615-727029D55CC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BE5ACBC-590C-4560-AFE4-D5994EDBD343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE5ACBC-590C-4560-AFE4-D5994EDBD343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE5ACBC-590C-4560-AFE4-D5994EDBD343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE5ACBC-590C-4560-AFE4-D5994EDBD343}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B40559A3-56C9-4AC9-8615-727029D55CC2} = {9B78A3E8-5B33-4CD5-BB78-6231E20DEF0B}
+		{5BE5ACBC-590C-4560-AFE4-D5994EDBD343} = {9B78A3E8-5B33-4CD5-BB78-6231E20DEF0B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1148421A-7296-4A1A-919A-E0C1DE2F02E7}
+	EndGlobalSection
+EndGlobal
