@@ -21,9 +21,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8_SpinLock", "8_SpinLock", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9_SpinWait", "9_SpinWait", "{131AA62C-8B9A-40E2-AD58-BBCFBEA62D0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_ThreadPool_GetAvailableThreads", "1_ThreadPool_GetAvailableThreads\1_ThreadPool_GetAvailableThreads.csproj", "{B40559A3-56C9-4AC9-8615-727029D55CC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_ThreadPool_GetAvailableThreads", "1_ThreadPool_GetAvailableThreads\1_ThreadPool_GetAvailableThreads.csproj", "{B40559A3-56C9-4AC9-8615-727029D55CC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_ThreadPool_QueueUserWorkItem", "2_ThreadPool_QueueUserWorkItem\2_ThreadPool_QueueUserWorkItem.csproj", "{5BE5ACBC-590C-4560-AFE4-D5994EDBD343}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_ThreadPool_QueueUserWorkItem", "2_ThreadPool_QueueUserWorkItem\2_ThreadPool_QueueUserWorkItem.csproj", "{5BE5ACBC-590C-4560-AFE4-D5994EDBD343}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4_ThreadPool_GetAvailableThreads_Test", "4_ThreadPool_GetAvailableThreads_Test\4_ThreadPool_GetAvailableThreads_Test.csproj", "{171C4376-4EE5-4356-9C0D-6789BE2792CB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10_Volatile", "10_Volatile", "{F61826FB-1258-4BEE-AA15-7E242857992F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_VolatileSample", "1_VolatileSample\1_VolatileSample.csproj", "{DE9A99BE-E185-482A-8999-9D47466C83DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_VolatileSample1", "1_VolatileSample1\1_VolatileSample1.csproj", "{69D18118-6CAB-4373-A8FF-00D7E7BEFA3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +47,18 @@ Global
 		{5BE5ACBC-590C-4560-AFE4-D5994EDBD343}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BE5ACBC-590C-4560-AFE4-D5994EDBD343}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BE5ACBC-590C-4560-AFE4-D5994EDBD343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{171C4376-4EE5-4356-9C0D-6789BE2792CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171C4376-4EE5-4356-9C0D-6789BE2792CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171C4376-4EE5-4356-9C0D-6789BE2792CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171C4376-4EE5-4356-9C0D-6789BE2792CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE9A99BE-E185-482A-8999-9D47466C83DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE9A99BE-E185-482A-8999-9D47466C83DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE9A99BE-E185-482A-8999-9D47466C83DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE9A99BE-E185-482A-8999-9D47466C83DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69D18118-6CAB-4373-A8FF-00D7E7BEFA3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D18118-6CAB-4373-A8FF-00D7E7BEFA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D18118-6CAB-4373-A8FF-00D7E7BEFA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D18118-6CAB-4373-A8FF-00D7E7BEFA3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +66,9 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{B40559A3-56C9-4AC9-8615-727029D55CC2} = {9B78A3E8-5B33-4CD5-BB78-6231E20DEF0B}
 		{5BE5ACBC-590C-4560-AFE4-D5994EDBD343} = {9B78A3E8-5B33-4CD5-BB78-6231E20DEF0B}
+		{171C4376-4EE5-4356-9C0D-6789BE2792CB} = {9B78A3E8-5B33-4CD5-BB78-6231E20DEF0B}
+		{DE9A99BE-E185-482A-8999-9D47466C83DE} = {F61826FB-1258-4BEE-AA15-7E242857992F}
+		{69D18118-6CAB-4373-A8FF-00D7E7BEFA3B} = {F61826FB-1258-4BEE-AA15-7E242857992F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1148421A-7296-4A1A-919A-E0C1DE2F02E7}
