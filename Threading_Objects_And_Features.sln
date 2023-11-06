@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_The System.Threading.Time
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_The System.Timers.Timer class", "2_The System.Timers.Timer class\2_The System.Timers.Timer class.csproj", "{DECD4345-880B-439F-817F-D75A66CC2116}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_AutoResetEvent Class", "AutoResetEvent Class\1_AutoResetEvent Class.csproj", "{2AFEE451-9888-4C96-B5FE-AA691B9A165C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_AutoResetEvent Class", "2_AutoResetEvent Class\2_AutoResetEvent Class.csproj", "{B3CDC4A2-6CC6-4336-BEBE-07C481159F82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +75,14 @@ Global
 		{DECD4345-880B-439F-817F-D75A66CC2116}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DECD4345-880B-439F-817F-D75A66CC2116}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DECD4345-880B-439F-817F-D75A66CC2116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AFEE451-9888-4C96-B5FE-AA691B9A165C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AFEE451-9888-4C96-B5FE-AA691B9A165C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AFEE451-9888-4C96-B5FE-AA691B9A165C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AFEE451-9888-4C96-B5FE-AA691B9A165C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3CDC4A2-6CC6-4336-BEBE-07C481159F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3CDC4A2-6CC6-4336-BEBE-07C481159F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3CDC4A2-6CC6-4336-BEBE-07C481159F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3CDC4A2-6CC6-4336-BEBE-07C481159F82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -83,6 +95,8 @@ Global
 		{69D18118-6CAB-4373-A8FF-00D7E7BEFA3B} = {F61826FB-1258-4BEE-AA15-7E242857992F}
 		{864AFAED-A2FF-4821-A819-5C11947BBB03} = {B720BEF4-74DA-4293-BE4F-A318C14AE37E}
 		{DECD4345-880B-439F-817F-D75A66CC2116} = {B720BEF4-74DA-4293-BE4F-A318C14AE37E}
+		{2AFEE451-9888-4C96-B5FE-AA691B9A165C} = {256BBFA3-7577-4DD1-99DC-71CFFB618F79}
+		{B3CDC4A2-6CC6-4336-BEBE-07C481159F82} = {256BBFA3-7577-4DD1-99DC-71CFFB618F79}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1148421A-7296-4A1A-919A-E0C1DE2F02E7}
