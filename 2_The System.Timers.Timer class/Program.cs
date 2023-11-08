@@ -54,3 +54,4 @@ namespace _2_The_System.Timers.Timer_class
     //
     //       Terminating the application...
 }
+// https://learn.microsoft.com/en-us/dotnet/api/system.timers.timer?view=net-7.0

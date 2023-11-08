@@ -47,3 +47,5 @@ namespace _1_The_System.Threading.Timer_class
 // first time after one second (1000 milliseconds) and then calls it every two
 // seconds. The state object in the example is used to count how many times the
 // delegate is called.The timer is stopped when the delegate has been called at least 10 times.
+
+// https://learn.microsoft.com/en-us/dotnet/standard/threading/timers
