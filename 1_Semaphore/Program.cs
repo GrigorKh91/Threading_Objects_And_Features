@@ -24,8 +24,6 @@
                 thread.Start(i);
             }
             Thread.Sleep(2000);
-            //pool.Release(2);
-
             Console.ReadKey();
         }
     }
