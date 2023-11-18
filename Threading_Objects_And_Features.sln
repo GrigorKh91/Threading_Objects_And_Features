@@ -33,39 +33,41 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_VolatileSample", "1_Volat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_VolatileSample1", "1_VolatileSample1\1_VolatileSample1.csproj", "{69D18118-6CAB-4373-A8FF-00D7E7BEFA3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_The System.Threading.Timer class", "1_The System.Threading.Timer class\1_The System.Threading.Timer class.csproj", "{864AFAED-A2FF-4821-A819-5C11947BBB03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_The System.Threading.Timer class", "1_The System.Threading.Timer class\1_The System.Threading.Timer class.csproj", "{864AFAED-A2FF-4821-A819-5C11947BBB03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_The System.Timers.Timer class", "2_The System.Timers.Timer class\2_The System.Timers.Timer class.csproj", "{DECD4345-880B-439F-817F-D75A66CC2116}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_The System.Timers.Timer class", "2_The System.Timers.Timer class\2_The System.Timers.Timer class.csproj", "{DECD4345-880B-439F-817F-D75A66CC2116}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_AutoResetEvent Class", "AutoResetEvent Class\1_AutoResetEvent Class.csproj", "{2AFEE451-9888-4C96-B5FE-AA691B9A165C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_AutoResetEvent Class", "AutoResetEvent Class\1_AutoResetEvent Class.csproj", "{2AFEE451-9888-4C96-B5FE-AA691B9A165C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_AutoResetEvent Class", "2_AutoResetEvent Class\2_AutoResetEvent Class.csproj", "{B3CDC4A2-6CC6-4336-BEBE-07C481159F82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_AutoResetEvent Class", "2_AutoResetEvent Class\2_AutoResetEvent Class.csproj", "{B3CDC4A2-6CC6-4336-BEBE-07C481159F82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_ManualResetEvent Class", "3_ManualResetEvent Class\3_ManualResetEvent Class.csproj", "{AD837080-BC45-49BA-B2FA-A026B9B73F27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_ManualResetEvent Class", "3_ManualResetEvent Class\3_ManualResetEvent Class.csproj", "{AD837080-BC45-49BA-B2FA-A026B9B73F27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_AutoResetEvent Example1", "3_Timer example\5_AutoResetEvent Example1.csproj", "{FDFD7B3D-DF86-4428-BA2D-06784D5C53D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5_AutoResetEvent Example1", "3_Timer example\5_AutoResetEvent Example1.csproj", "{FDFD7B3D-DF86-4428-BA2D-06784D5C53D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_AutoResetEvent Example", "4_Timer example1\4_AutoResetEvent Example.csproj", "{651D3C21-44E0-4F8D-9361-492B4ABE940A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4_AutoResetEvent Example", "4_Timer example1\4_AutoResetEvent Example.csproj", "{651D3C21-44E0-4F8D-9361-492B4ABE940A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_MutexSample", "1_MutexSample\1_MutexSample.csproj", "{A1A7A65C-4742-4E01-8DAF-9276ED527AF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_MutexSample", "1_MutexSample\1_MutexSample.csproj", "{A1A7A65C-4742-4E01-8DAF-9276ED527AF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Semaphore", "1_Semaphore\1_Semaphore.csproj", "{7307088D-7B2B-4D96-AEA4-DDC0CBB0A651}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_Semaphore", "1_Semaphore\1_Semaphore.csproj", "{7307088D-7B2B-4D96-AEA4-DDC0CBB0A651}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0_EventWaitHandle", "0_EventWaitHandle\0_EventWaitHandle.csproj", "{3AC7024F-1813-490F-B845-DC1E26F7F735}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0_EventWaitHandle", "0_EventWaitHandle\0_EventWaitHandle.csproj", "{3AC7024F-1813-490F-B845-DC1E26F7F735}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_SemaphoreSlim", "2_SemaphoreSlim\2_SemaphoreSlim.csproj", "{27EDC1E4-EC13-4911-9DB9-601114295E98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_SemaphoreSlim", "2_SemaphoreSlim\2_SemaphoreSlim.csproj", "{27EDC1E4-EC13-4911-9DB9-601114295E98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Barrier", "1_Barrier\1_Barrier.csproj", "{BEAEAAD8-2A56-4862-A30F-6E615BF42ABD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_Barrier", "1_Barrier\1_Barrier.csproj", "{BEAEAAD8-2A56-4862-A30F-6E615BF42ABD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Barier_Leetcode FizzBuzz", "2_Barier_Leetcode FizzBuzz\2_Barier_Leetcode FizzBuzz.csproj", "{D9A3EC4A-137A-4143-A763-517D14D7E078}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_Barier_Leetcode FizzBuzz", "2_Barier_Leetcode FizzBuzz\2_Barier_Leetcode FizzBuzz.csproj", "{D9A3EC4A-137A-4143-A763-517D14D7E078}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_SpinLock", "1_SpinLock\1_SpinLock.csproj", "{FA357ED3-A11A-4411-962F-8C0681CD2B84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_SpinLock", "1_SpinLock\1_SpinLock.csproj", "{FA357ED3-A11A-4411-962F-8C0681CD2B84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_SpinLock", "2_SpinLock\2_SpinLock.csproj", "{C25342CC-728C-486F-A996-BABC1043CD0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_SpinLock", "2_SpinLock\2_SpinLock.csproj", "{C25342CC-728C-486F-A996-BABC1043CD0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_checking SpinLock", "3_checking SpinLock\3_checking SpinLock.csproj", "{29473681-D810-4AA5-B74A-562B34A5A605}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_checking SpinLock", "3_checking SpinLock\3_checking SpinLock.csproj", "{29473681-D810-4AA5-B74A-562B34A5A605}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_SpinWait", "1_SpinWait\1_SpinWait.csproj", "{E449E361-45C0-4E1F-8D72-A1A046B976F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_SpinWait", "1_SpinWait\1_SpinWait.csproj", "{E449E361-45C0-4E1F-8D72-A1A046B976F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0_SpinLock", "0_SpinLock\0_SpinLock.csproj", "{E0359DC0-D7C7-4484-9CE3-AA1D0F0B22D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -161,6 +163,10 @@ Global
 		{E449E361-45C0-4E1F-8D72-A1A046B976F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E449E361-45C0-4E1F-8D72-A1A046B976F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E449E361-45C0-4E1F-8D72-A1A046B976F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0359DC0-D7C7-4484-9CE3-AA1D0F0B22D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0359DC0-D7C7-4484-9CE3-AA1D0F0B22D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0359DC0-D7C7-4484-9CE3-AA1D0F0B22D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0359DC0-D7C7-4484-9CE3-AA1D0F0B22D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -188,6 +194,7 @@ Global
 		{C25342CC-728C-486F-A996-BABC1043CD0A} = {AC1A7470-0242-4A24-B1D9-B5D880FFF41E}
 		{29473681-D810-4AA5-B74A-562B34A5A605} = {AC1A7470-0242-4A24-B1D9-B5D880FFF41E}
 		{E449E361-45C0-4E1F-8D72-A1A046B976F9} = {131AA62C-8B9A-40E2-AD58-BBCFBEA62D0D}
+		{E0359DC0-D7C7-4484-9CE3-AA1D0F0B22D1} = {AC1A7470-0242-4A24-B1D9-B5D880FFF41E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1148421A-7296-4A1A-919A-E0C1DE2F02E7}
